@@ -1,0 +1,17 @@
+a{
+	color:red;
+	text-decoration:none;
+	font-size: 100px;
+}
+
+h1{
+	font-family: helvetica, sans-serif;
+}
+#segundo{
+	color: orange;
+}
+
+/* todo link a, que estiver dentro da tag p, dentro do body sera afetado*/
+body p a.link{
+	color: green;
+}
